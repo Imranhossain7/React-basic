@@ -1,0 +1,60 @@
+.Container {
+  width: 100%;
+  min-height: 100px;
+  padding: 20px;
+  margin-top: 50px;
+  border: 1px solid #ddd;
+  align-items: center;
+}
+
+.Container-2 {
+  width: 100%;
+  min-height: 50px;
+  padding: 10px;
+  margin-top: 10px;
+  border: 1px solid #ddd;
+  align-items: center;
+}
+
+.Info {
+  margin-bottom: 30px;
+  font-size: 25px;
+  font-weight: 300;
+  color: rgb(39, 130, 158);
+  margin-top: 5px;
+}
+
+.Skill {
+  margin-bottom: 30px;
+  font-size: 25px;
+  font-weight: 300;
+  color: rgb(39, 130, 158);
+  margin-top: 5px;
+}
+.Social {
+  margin-bottom: 30px;
+  font-size: 25px;
+  font-weight: 300;
+  color: rgb(39, 130, 158);
+  margin-top: 5px;
+  text-decoration: none;
+}
+
+.Social a {
+  text-decoration: none;
+  color: coral;
+}
+
+.Btn {
+  padding: 5px 15px;
+  border: solid 1px burlywood;
+  color: coral;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.text {
+  margin-left: 5px;
+  margin-right: 5px;
+  color: black;
+}
